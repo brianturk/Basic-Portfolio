@@ -1,0 +1,116 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777;
+    
+    margin: auto;
+    background-image: url('../images/white-waves.png');
+    background-repeat: repeat;
+}
+
+header {
+    background: #ffffff;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    height: 75px;
+    border-bottom: 5px solid #cccccc;
+}
+
+.nav {
+    width: 960px;
+    margin: 0 auto;
+    height: auto;
+}
+
+#yourname {
+    float: left;
+    text-align: center;
+    background: #4aaaa5;
+    padding: 20px;
+    color: white;
+    width: 200px;
+    font-size: 26px;
+}
+
+#menu {
+    float: left;
+    padding: 10px 30px 5px 10px;
+    width: 760px;
+    text-align: right;
+}
+
+
+
+
+/*
+header, #nav, #section, #aside, #footer {
+    padding: 40px;
+    margin-bottom: 10px;
+    background: #ebebeb;
+}
+
+header {
+    margin-top: 10px;
+}
+
+#section {
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 25px;
+    float: left;
+    width: 550px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 294px;
+}
+
+#aside {
+    float: left;
+    width: 390px;
+    height: 294px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+}
+
+#article {
+    margin-top: 25px;
+    background: #777;
+    color: #ebebeb;
+    margin-bottom: 0px;
+}
+
+#h1 {
+    margin-top: 20px;
+    background: #ebebeb;
+    color: #777;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+#p {
+    margin-top: 10px;
+    background: #ebebeb;
+    color: #777;
+    margin-bottom: 0px;
+}
+
+  #h1, #p, #article {
+    padding-bottom: 20px;
+    padding-right:  20px;
+    padding-left: 20px;
+    padding-top: 20px;
+  }
+  
+  
+  #footer {
+    margin-top: 10px;
+    clear: both;
+  }
+  
+
+*/
